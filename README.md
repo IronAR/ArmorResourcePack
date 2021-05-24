@@ -8,7 +8,7 @@ This would be extreamly confusing to new players seeing people in custom armour,
 ## Rules for this pack
 1) One design & color of armour per crew, you cant have multiple designs and colors per crew.
 - To differentiate between players in a crew you can have customised alternative version of your crew armour in the form of a differnt colored band around an arm/shoulder pad colors, but the Core design & color of the armour needs to be consistent for all crew members.
-- ![Example](https://i.imgur.com/GNDnOVJ.png)
+- ![Example](https://i.imgur.com/sZVaunj.png)
 2) The name of the armour needs to be your crew tag
 3) This pack is primarily just for armour nothing else
 
